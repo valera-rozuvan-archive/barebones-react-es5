@@ -5,8 +5,8 @@ Browserify, Webpack, Babel, etc.
 
 ## See live
 
-- [Full screen Plunker](https://run.plnkr.co/plunks/mweu8i/)
-- [Edit Plunker](https://plnkr.co/edit/mweu8i?p=info)
+- [Full screen Plunker](https://run.plnkr.co/I7Yezsz5mhiR27TN/)
+- [Edit Plunker](https://plnkr.co/edit/QUATJl8YYkBu4VTD3kZe?p=info)
 
 ## Run locally
 
