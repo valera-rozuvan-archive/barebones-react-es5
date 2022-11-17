@@ -1,5 +1,11 @@
 # Barebones React ES5 Application
 
+## wip has moved
+
+Future work on this repository has moved to the monorepo [valera-rozuvan/experiments](https://github.com/valera-rozuvan/experiments). This repo is archived for historic purposes (to preserve commit history). Navigate over to [experiments/barebones-react-es5](https://github.com/valera-rozuvan/experiments/tree/main/barebones-react-es5) to see updates (if any).
+
+## introduction
+
 Example of a barebones React application written entirely in ES5. Without any help of such tools as Gulp,
 Browserify, Webpack, Babel, etc.
 
